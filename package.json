@@ -1,0 +1,12 @@
+{
+  "name": "clinicos",
+  "version": "1.0.0",
+  "description": "Clinic Management System — Frontend",
+  "scripts": {
+    "dev": "npx serve . -p 3000 --no-clipboard",
+    "start": "npx serve . -p 3000 --no-clipboard"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
